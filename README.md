@@ -1,6 +1,7 @@
 # RohitJaju_R3_TechnicalAssessment
 API validation tests : Technical assessment R3 : For exchange rates API
 ****Validations performed for : 1.Total currency count 2.API success response 3.Json schema validation 4. AED currency range 3.6 to 3.7.**
+**Added Project zip file : Assignment_R3_ExchangeRates.zip**
 
 Steps to execute:
 1.Right click on following file and run as TestNG : \src\test\java\base\ExchangeRateAPI_R3.java
